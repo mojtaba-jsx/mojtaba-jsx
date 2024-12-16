@@ -1,7 +1,8 @@
 <h1 align="center">سلام! من مجتبی نیری هستم 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=توسعه‌دهنده+وب+و+نرم‌افزار+;عاشق+یادگیری+و+چالش‌های+جدید;حل+مسائل+و+ساخت+ابزارهای+کاربردی" alt="Typing SVG" />
-</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36BCF7&width=700&lines=Talk%20Is%20Cheap%2C%20Show%20Me%20The%20Code;Linus%20Torvalds" />
+</h1>
 
 ---
 
@@ -47,8 +48,5 @@
 - همکاری با تیم‌های متن‌باز در پروژه‌های جهانی
 - توسعه اپلیکیشن‌های با عملکرد بالا
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36BCF7&width=700&lines=Talk%20Is%20Cheap%2C%20Show%20Me%20The%20Code;Linus%20Torvalds" />
-</h1>
 
 
