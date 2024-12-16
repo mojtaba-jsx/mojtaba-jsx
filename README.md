@@ -32,17 +32,13 @@
 
 ### 📬 راه‌های ارتباط با من
 <p align="center">
-  <a href="https://linkedin.com/in/YourProfile">(https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
-</a>
   <a href="mailto:YourEmail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-### ✨ جملات الهام‌بخش
-> "کدنویسی هنر حل مسائل است."  
-> "یادگیری هیچ‌وقت تمام نمی‌شود."  
+
 
 ---
 
@@ -51,6 +47,4 @@
 - همکاری با تیم‌های متن‌باز در پروژه‌های جهانی
 - توسعه اپلیکیشن‌های با عملکرد بالا
 
----
 
-> با الهام‌گیری از این قالب می‌توانید آن را کاملاً شخصی‌سازی کنید. اگر نیاز به راهنمایی یا کمک در ویرایش دارید، بپرسید! 😊
