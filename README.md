@@ -48,6 +48,7 @@
 - توسعه اپلیکیشن‌های با عملکرد بالا
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36BCF7&width=700&lines=%D8%AD%D8%AA%DB%8C%20%D8%A2%D9%86%D9%87%D8%A7%20%D8%B3%D8%AE%D9%86%20%D8%B2%D8%A8%D8%B1%DA%AF%20%D9%86%DA%AF%D9%88%D9%8F%D8%AF%2C%20%DA%A9%D8%B3%DB%8C%20%D8%A8%D8%AE%D9%88%D8%A7%D9%87%D8%AF%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D9%88%D8%A7%D8%B1%D8%AF%20%D8%B4%D8%AF%D9%86%20%DA%A9%D8%A7%D8%B1%20%D8%AE%D9%88%D8%A8%20%D8%A8%DB%8C%DA%A9%D8%B1%D8%A7%D8%B1%D8%A7%D9%86%20%DA%A9%D9%87%20%D9%81%D8%B1%D9%85%D8%A7%DB%8C%D8%B4%20%D8%AE%D9%88%D8%A8%20%D9%86%D8%B3%D8%AA%D8%A7%D9%86%D8%AF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36BCF7&width=700&lines=Talk%20Is%20Cheap%2C%20Show%20Me%20The%20Code;Linus%20Torvalds" />
 </h1>
+
 
