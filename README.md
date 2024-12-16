@@ -1,8 +1,9 @@
 <h1 align="center">سلام! من مجتبی نیری هستم 👋</h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36BCF7&width=700&lines=Talk%20Is%20Cheap%2C%20Show%20Me%20The%20Code;Linus%20Torvalds" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=36BCF7&width=800&lines=Talk%20Is%20Cheap%2C%20Show%20Me%20The%20Code;Linus%20Torvalds" />
 </h1>
+
 
 ---
 
