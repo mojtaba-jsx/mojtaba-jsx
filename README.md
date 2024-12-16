@@ -21,9 +21,8 @@
 
 ### 📊 آمار گیت‌هاب من
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&show_owner=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&langs_count=6)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mojtaba-jsx&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtaba-jsx&layout=compact&theme=radical&langs_count=6)
 
 
 
