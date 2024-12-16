@@ -45,7 +45,3 @@
 - یادگیری پیشرفته ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 - همکاری با تیم‌های متن‌باز در پروژه‌های جهانی
 - توسعه اپلیکیشن‌های با عملکرد بالا
-
-
-این یک متن است و در کنار آن ![React](https://img.shields.io/badge/-React%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=black) قرار دارد.
-
